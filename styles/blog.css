@@ -134,6 +134,27 @@ text-align: left;
     margin: 0 auto;
     gap:25px;
 }
+/* extra section styles start here */
+.extra-section{
+    height: 50vh;
+    background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 120px;
+    padding-top: 30px;
+}
+.extra-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 50px;
+}
+.bestsell-image{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
 /* section-4 styles start here */
 .section-4{
     background-image:url('/images/Rectangle\ 9.png');
