@@ -136,20 +136,20 @@ text-align: left;
 }
 /* extra section styles start here */
 .extra-section{
-    height: 50vh;
+    height: 60vh;
     background: rgba(229, 84, 115, 0.10);
     margin-bottom: 120px;
     padding-top: 30px;
 }
 .extra-container{
     display: flex;
-    width: 100%;
+    width: 105%;
     justify-content: center;
     gap: 50px;
 }
 .bestsell-image{
-    width: 300px;
-    height: 300px;
+    width: 340px;
+    height: 400px;
 }
 
 
