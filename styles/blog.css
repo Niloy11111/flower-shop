@@ -124,3 +124,23 @@ text-align: left;
 .section-2-left{
     max-width:540px;
 }
+/* section-3 styles start here */
+.section-3-container{
+    display: flex;
+    width: 74%;
+    margin: 0 auto;
+    gap:25px;
+}
+/* section-4 styles start here */
+.section-4{
+    margin-top: 130px;
+}
+
+.btn-email{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 16px;
+border-radius: 8px;
+background: #FFF;
+padding: 22px 510px 22px 22px;
+border: none;
+}
