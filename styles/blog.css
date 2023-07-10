@@ -138,6 +138,7 @@ text-align: left;
 .section-4{
     background-image:url('/images/Rectangle\ 9.png');
     background-repeat: no-repeat;
+    background-size: cover;
     width: 70%;
     margin: 0 auto;
     height: 450px;
