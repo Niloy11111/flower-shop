@@ -144,6 +144,9 @@ text-align: left;
     align-items: center;
     height: 70vh;
     gap: 210px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 130px;
+    margin-top: 130px;
 }
 .section-2-left{
     max-width:540px;
