@@ -145,7 +145,7 @@ text-align: left;
     display: flex;
     width: 105%;
     justify-content: center;
-    gap: 50px;
+    gap: 25px;
 }
 .bestsell-image{
     width: 340px;
